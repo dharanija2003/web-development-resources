@@ -3,6 +3,7 @@
 This is an awesome project about Web Development resources. ⚡
 
 Resources are added frequently! ⚡
+this is worth repository
 
 Enjoy! :)
 
